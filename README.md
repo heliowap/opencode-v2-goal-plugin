@@ -1,3 +1,5 @@
+> **Moved.** This plugin now lives in [heliowap/opencode-plugins](https://github.com/heliowap/opencode-plugins/tree/main/plugins/goal). Install: `opencode plugin add 'github:heliowap/opencode-plugins#main::path:plugins/goal'`. This repository is archived.
+
 # opencode-v2-goal-plugin
 
 > [!NOTE]
